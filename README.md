@@ -3,4 +3,4 @@ Este módulo de Terraform se ha pensado para un proyecto con una única parte Ja
 
 Se creara una PVC, con una subred pública y una instancia. Esta instancia tendrá acceso a los puertos 22 y 8080.
 
-Puede utilizar como ejemplo el proyecto `calculator` o el proyecto `petportal`.
+Puede utilizar como ejemplo el proyecto `calculator` o el proyecto `petportal`. O cualquier otro proyecto tomcat.
